@@ -1,7 +1,7 @@
 import scala.collection.immutable.HashMap
 import scala.collection.mutable
 
-object Main {
+object ChapterOneIntroduction {
   def main(args: Array[String]): Unit = {
     // scala map
     val cityToCapitals = Map("China" -> "Shanghai", "Japan" -> "Tokyo")

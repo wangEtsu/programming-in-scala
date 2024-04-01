@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0c89ec2-dd82-43c5-a324-09f45cf1505e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+    <list default="true" id="f0c89ec2-dd82-43c5-a324-09f45cf1505e" name="Changes" comment="chapter 1: Introduction">
+      <change afterPath="$PROJECT_DIR$/helloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ChapterTwoIntroduction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ChapterOneIntroduction.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Scala"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Scala&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.ChapterTwoIntroduction">
+    <configuration name="ChapterOneIntroduction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterOneIntroduction" />
+      <module name="programming-in-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChapterTwoIntroduction" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ChapterTwoIntroduction" />
+      <module name="programming-in-scala" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="programming-in-scala" />
@@ -57,6 +64,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChapterTwoIntroduction" />
+        <item itemvalue="Application.ChapterOneIntroduction" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -70,6 +79,25 @@
       <option name="presentableId" value="Default" />
       <updated>1711510266325</updated>
     </task>
+    <task id="LOCAL-00001" summary="chapter 1: Introduction">
+      <created>1711533944960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711533944960</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chapter 1: Introduction">
+      <created>1711533952165</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711533952165</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chapter 1: Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 1: Introduction" />
   </component>
 </project>
