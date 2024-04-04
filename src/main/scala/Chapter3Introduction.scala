@@ -1,6 +1,6 @@
 import scala.::
 
-object ChapterThreeIntroduction {
+object Chapter3Introduction {
   def main(args: Array[String]): Unit = {
     print("Chapter 3: Next Step")
     // scala parameterize an object with type

@@ -1,4 +1,4 @@
-object ChapterTwoIntroduction {
+object Chapter2Introduction {
   def main(args: Array[String]): Unit = {
     // val and var. val is similar to final while var can be reassigned.
     val notAssignableVariable = "a not assignable string"
